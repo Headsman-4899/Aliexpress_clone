@@ -1,0 +1,29 @@
+.toggle {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0.3rem;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    margin: 1rem 0 0 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+    align-items: center;
+}
+p {
+    margin: 0;
+}
+.toggle:hover {
+    color: rgb(10, 161, 199);
+    transition: 0.2s;
+}
+.content {
+    display: grid;
+    margin-top: 5rem;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+.content app-product-item {
+    display: grid;
+    height: 100%;
+}

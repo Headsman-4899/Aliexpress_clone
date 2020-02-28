@@ -1,0 +1,361 @@
+[{
+    "id": 1,
+    "category": "1",
+    "name": "iPhone 6",
+    "image": "../../assets/6.jpg",
+    "description": "Смартфоны Apple iPhone 6 Original Unlocked IOS 4.7-дюймовый сенсорный экран Бесплатный чехол + фильм LTE CMOS Bluetooth 8.0MP камера для мобильного телефона",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 2,
+    "category": "1",
+    "name": "iPhone 7",
+    "image": "../../assets/7.jpg",
+    "description": "Оригинальный мобильный телефон Apple iPhone 7, 4G LTE, 2 Гб ОЗУ 32 ГБ/128 ГБ/256 Гб ПЗУ, IOS 12.0MP камера SIM Бесплатные смартфоны отпечатков пальцев",
+    "rating": "8",
+    "link": "https://aliexpress.ru/item/32829867151.html?spm=a2g0o.detail.1000023.9.27ee1e64HmAhEu"
+},
+{
+    "id": 3,
+    "category": "1",
+    "name": "iPhone 5s",
+    "image": "../../assets/5s.jpg",
+    "description": "Оригинальные разблокированные Apple iPhone 5S, 4G LTE мобильные телефоны, 4,0 дюймов, 16 ГБ/32 ГБ/64 ГБ rom, IOS gps Touch ID iCloud смартфоны",
+    "rating": "6.6",
+    "link": "https://aliexpress.ru/item/32797283624.html?spm=a2g0o.detail.1000013.3.15fa6641eATJ1E&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=9550d307-3b5b-4243-823d-8857c95da9b3"
+},
+{
+    "id": 4,
+    "category": "1",
+    "name": "iPhone 8 Plus",
+    "image": "../../assets/8plus.jpeg",
+    "description": "3 дня прибытия, Apple iPhone 8 Plus 64/256GB rom 12MP задняя камера отпечаток пальца 4G LTE 5,5 дюймов iOS 11 шестиъядерный мобильные телефоны",
+    "rating": "6.7",
+    "link": "https://aliexpress.ru/item/32919209826.html?spm=a2g0o.detail.1000013.15.322e45aehwU2xe&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=15149fd1-8f06-455a-a8f5-5fe10a55ec1a"
+},
+{
+    "id": 5,
+    "category": "1",
+    "name": "iPhone X",
+    "image": "../../assets/x.jpg",
+    "description": "Разблокированный мобильный телефон Apple iPhone X Face ID, 4G LTE, 64 ГБ/256 Гб ПЗУ, 3 Гб ОЗУ, шестиядерный процессор, 5,8 дюймов, iOS A11, 12 МП, двойная задняя камера",
+    "rating": "9.9",
+    "link": "https://aliexpress.ru/item/32978475715.html?spm=a2g0o.detail.1000023.4.344c77dcj3cuKN"
+},
+{
+    "id": 6,
+    "category": "1",
+    "name": "iPhone SE",
+    "image": "../../assets/se.jpg",
+    "description": "Оригинальный разблокированный Apple iPhone SE1723 2 Гб Оперативная память 16/64GB Встроенная память 4,0 дюймов 12.0MP iOS Touch ID отпечатков пальцев мобильные телефоны",
+    "rating": "5.7",
+    "link": "https://aliexpress.ru/item/32919169040.html?spm=a2g0o.detail.1000023.8.37282cddi90xSO"
+},
+{
+    "id": 7,
+    "category": "1",
+    "name": "iPhone 11 Pro Max",
+    "image": "../../assets/11promax.jpg",
+    "description": "Оригинальный новый iPhone 11 Pro/Pro Max Тройная камера заднего вида 5,8/6,5 \"Super AMOLED дисплей A13 Чипсет IOS 13 смартфон MI BlueTooth",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/4000200667700.html?spm=a2g0o.detail.1000014.1.475e7026CEbBPg&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.141931.0&scm_id=1007.13338.141931.0&scm-url=1007.13338.141931.0&pvid=4936d239-1ea3-48f0-aa9c-111aca72b05e"
+},
+{
+    "id": 8,
+    "category": "1",
+    "name": "iPhone 11",
+    "image": "../../assets/11.jpg",
+    "description": "Apple iPhone 11 | 4G смартфон A13 с бионическим чипом 6,1 дюймов жидкий сетчатый HD ЖК-дисплей Двойная камера",
+    "rating": "5.9",
+    "link": "https://aliexpress.ru/item/4000191320535.html?spm=a2g0o.detail.1000014.5.db1a10bblxsPSm&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.141931.0&scm_id=1007.13338.141931.0&scm-url=1007.13338.141931.0&pvid=cc682a5e-9ee9-4b84-81e2-49416e37cd69"
+},
+{
+    "id": 9,
+    "category": "1",
+    "name": "iPhone XS Max",
+    "image": "../../assets/xs max.jpg",
+    "description": "Apple iPhone XS Max | смартфон с двумя sim-картами 2018 полностью разблокированный 6,5 дюймовый большой экран 4G Lte Apple смартфон",
+    "rating": "8.3",
+    "link": "https://aliexpress.ru/item/32889348604.html?spm=a2g0o.detail.1000013.13.1678599blrcmzM&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=59f27e0c-9924-4ef0-8c34-1edeba4e8464"
+},
+{
+    "id": 10,
+    "category": "1",
+    "name": "iPhone 7 Plus",
+    "image": "../../assets/7plus.png",
+    "description": "Для Apple iPhone 7 Plus iPhone 7, 3 Гб оперативной памяти, Оперативная память 32/128 ГБ/256 ГБ Встроенная память IOS 10 сотовый телефон 12.0MP Камера Quad-Core отпечатков пальцев 12MP 2910mA",
+    "rating": "9.2",
+    "link": "https://aliexpress.ru/item/32854844856.html?spm=a2g0o.detail.1000014.29.36543a176AwuLg&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.141931.0&scm_id=1007.13338.141931.0&scm-url=1007.13338.141931.0&pvid=4a46e125-ca29-4ec9-b2a9-dfb4f0a26402"
+},
+{
+    "id": 11,
+    "category": "2",
+    "name": "Samsung Galaxy S20 Ultra",
+    "image": "../../assets/s20ultra.png",
+    "description": "Товарищи! новая модель организационной деятельности позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. Товарищи! укрепление и развитие структуры обеспечивает широкому кругу (специалистов) участие в формировании соответствующий условий активизации.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 12,
+    "category": "2",
+    "name": "Samsung Galaxy S10 Plus",
+    "image": "../../assets/s10plus.jpg",
+    "description": "Таким образом укрепление и развитие структуры влечет за собой процесс внедрения и модернизации модели развития. Равным образом постоянный количественный рост и сфера нашей активности позволяет оценить значение позиций, з",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 13,
+    "category": "2",
+    "name": "Samsung Galaxy S10",
+    "image": "../../assets/s10.png",
+    "description": "Разнообразный и богатый опыт дальнейшее развитие различных форм деятельности позволяет оценить значение новых предложений. Товарищи! сложившаяся структура организации влечет за собой процесс внедрения и модернизации позиций, занимаемых",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 14,
+    "category": "2",
+    "name": "Samsung Galaxy S10e",
+    "image": "../../assets/s10e.jpeg",
+    "description": "Повседневная практика показывает, что укрепление и развитие структуры требуют определения и уточнения систем массового участия. С другой стороны дальнейшее развитие различных форм деятельности влечет за",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 15,
+    "category": "2",
+    "name": "Samsung Galaxy S9 Plus",
+    "image": "../../assets/s9plus.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что сложившаяся структура организации влечет за собой процесс внедрения и модернизации системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 16,
+    "category": "2",
+    "name": "Samsung Galaxy Fold",
+    "image": "../../assets/fold.webp",
+    "description": "Товарищи! постоянный количественный рост и сфера нашей активности позволяет оценить значение соответствующий условий активизации. Таким образом реализация намеченных плановых заданий позволяет оценить значение соответствующий усло",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 17,
+    "category": "2",
+    "name": "Samsung Galaxy S8 Plus",
+    "image": "../../assets/s8plus.png",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 18,
+    "category": "2",
+    "name": "Samsung Galaxy S8",
+    "image": "../../assets/s8.jpg",
+    "description": "Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 19,
+    "category": "2",
+    "name": "Samsung Galaxy S7",
+    "image": "../../assets/s7.jpeg",
+    "description": "Повседневная практика показывает, что постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнять важные задания по разработке направлений прогрессивного развития.",
+    "rating": "6.8",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 20,
+    "category": "2",
+    "name": "Samsung Galaxy S6 Edge",
+    "image": "../../assets/s6edge.jpg",
+    "description": "Не следует, однако забывать, что начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации направлений прогрессивного развития.",
+    "rating": "3.5",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 21,
+    "category": "3",
+    "name": "Xiaomi Mi 9",
+    "image": "../../assets/mi9.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 22,
+    "category": "3",
+    "name": "Xiaomi Mi 9T",
+    "image": "../../assets/mi9t.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 23,
+    "category": "3",
+    "name": "Xiaomi Mi Note 10",
+    "image": "../../assets/minote10.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 24,
+    "category": "3",
+    "name": "Xiaomi Mi Mix 3",
+    "image": "../../assets/mimix3.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 25,
+    "category": "3",
+    "name": "Redmi Note 7 series",
+    "image": "../../assets/redminote7.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 26,
+    "category": "3",
+    "name": "Xiaomi Mi A3",
+    "image": "../../assets/mia3.jpeg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 27,
+    "category": "3",
+    "name": "Redmi Note 8T",
+    "image": "../../assets/note8t.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 28,
+    "category": "3",
+    "name": "Redmi Note 8 Pro",
+    "image": "../../assets/note8pro.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 29,
+    "category": "3",
+    "name": "Redmi 7",
+    "image": "../../assets/redmi7.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 30,
+    "category": "3",
+    "name": "Redmi 8A",
+    "image": "../../assets/redmi8a.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 31,
+    "category": "4",
+    "name": "Huawei Mate RS Porcshe Design ",
+    "image": "../../assets/mi9.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 32,
+    "category": "4",
+    "name": "Huawei Mate 20 Pro",
+    "image": "../../assets/mi9t.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 33,
+    "category": "4",
+    "name": "Huawei Mate 20 X",
+    "image": "../../assets/minote10.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 34,
+    "category": "4",
+    "name": "Huawei Mate 20 RS Porsche Design",
+    "image": "../../assets/mimix3.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 35,
+    "category": "4",
+    "name": "Huawei Y6 2019",
+    "image": "../../assets/redminote7.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 36,
+    "category": "4",
+    "name": "Huawei Y7 2019",
+    "image": "../../assets/mia3.jpeg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 37,
+    "category": "4",
+    "name": "Huawei P30",
+    "image": "../../assets/note8t.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 38,
+    "category": "4",
+    "name": "Huawei P30 Pro",
+    "image": "../../assets/note8pro.webp",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 39,
+    "category": "4",
+    "name": "Huawei P30 lite",
+    "image": "../../assets/redmi7.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+},
+{
+    "id": 40,
+    "category": "4",
+    "name": "Huawei P smart Z",
+    "image": "../../assets/redmi8a.jpg",
+    "description": "Значимость этих проблем настолько очевидна, что консультация с широким активом позволяет оценить значение системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что сложившаяся структура организации представляет собой интересный эксперимент проверки системы обучения кадров, соответствует насущным потребностям.",
+    "rating": "7.3",
+    "link": "https://aliexpress.ru/item/32826927996.html?spm=a2g0o.productlist.0.0.3899143a4i0EQ8&algo_pvid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61&algo_expid=64b8cfc5-f6e5-4af8-8093-3731f7b62f61-0&btsid=0ab50f6115815250063904247e7758&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_"
+}
+]

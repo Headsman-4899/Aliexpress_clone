@@ -1,0 +1,17 @@
+.categories {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-gap: 1rem;
+    margin: 1rem 1rem 3rem 1rem;
+}
+.categories .button {
+    background: #fff;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 1rem;
+    cursor: pointer;
+}
+.categories .active {
+    color: rgb(6, 155, 255);
+    background: #e4e4e4;
+}

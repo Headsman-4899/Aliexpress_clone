@@ -1,0 +1,10 @@
+<div class="toggle" routerLink="../">
+    <i class="material-icons">arrow_back</i>
+    <p>Back</p>
+</div>
+<div class="content">
+    <div (click)="onSelect(product)" *ngFor="let product of products">
+        <app-product-item [aliexpress_product]="product"></app-product-item>
+    </div>
+</div>
+<router-outlet></router-outlet>

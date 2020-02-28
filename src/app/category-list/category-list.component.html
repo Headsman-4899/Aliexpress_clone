@@ -1,0 +1,6 @@
+<div class="categories">
+    <div (click)="onSelect(category)" *ngFor="let category of categories" >
+        <div routerLinkActive="active" class="button">{{ category.name }}</div>
+    </div>
+</div>
+<router-outlet></router-outlet>

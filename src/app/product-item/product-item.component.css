@@ -1,0 +1,18 @@
+.item_header {
+  margin: 1rem;
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 1rem;
+  background: #fff;
+  transition: 0.2s;
+}
+.item_header:hover {
+  background: rgb(247, 247, 247);
+  transition: 0.2s;
+}
+h3 {
+  margin: 0;
+}
+.item_header a {
+  color: rgb(0, 99, 138);
+}

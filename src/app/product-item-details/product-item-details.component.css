@@ -1,0 +1,107 @@
+.toggle {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0.3rem;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    margin: 1rem 0 0 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.toggle:hover {
+    color: rgb(10, 161, 199);
+    transition: 0.2s;
+}
+.main {
+    display: grid;
+    justify-items: center;
+}
+.item {
+    padding: 1rem;
+    /* box-shadow: 2px 2px 12px -3px rgba(175, 175, 175, 0.75); */
+    border-radius: 7px;
+    margin: 1rem;
+    background: #fff;
+    width: 30%;   
+  }
+  .item_header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+  }
+  .item_header a {
+    color: rgb(0, 99, 138);
+  }
+  .item-carousel {
+    padding-top: 1rem;
+    display: grid;
+    justify-content: center;
+  }
+  .item-carousel img{
+    height: 200px;
+  }
+  .item_description {
+    padding: 1rem 0;
+    font-size: 13px;
+    color: #5f5f5f;
+  }
+  .item_rating {
+    display: flex;
+    align-items: center;
+  }
+  .item_rating i {
+    font-size: 18px;
+    color: rgb(255, 174, 0);
+    padding-right: 0.3rem;
+  }
+  h3, p {
+    margin: 0;
+    align-self: center;
+  }
+  .item_button {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0.5rem;
+  }
+  .item_button button {
+    border: none;
+    padding: 5px 1rem;
+    border-radius: 3px;
+  }
+  .share {
+    border: none;
+    padding: 5px 1rem;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    display: grid;
+    justify-self: center;
+    font-size: 13.4px;
+    font-family: Arial;
+    cursor: pointer;
+    background: rgb(255, 215, 107);
+    transition: 0.2s;
+    display: grid;
+  }
+  .see-more {
+    background: rgb(245, 245, 245);
+    transition: 0.2s;
+    color: #5f5f5f;
+  }
+  
+  .link {
+    background: rgb(54, 112, 187);
+    transition: 0.2s;
+    color: #fff;
+    cursor: pointer;
+  }
+  .share:hover {
+    background: rgba(255, 215, 107, 0.7);
+    transition: 0.2s;
+  }
+  .link:hover {
+    background: rgba(54, 112, 187, 0.7);
+    transition: 0.2s;
+  }

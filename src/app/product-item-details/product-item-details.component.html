@@ -1,0 +1,32 @@
+<div class="toggle" routerLink="/categories/{{productId.category}}">
+    <i class="material-icons">arrow_back</i>
+    <p>Back</p>
+</div>
+<div class="main">
+    <div class="item">
+        <div class="item_header">
+            <h3>
+                <a [title]="productId.name + ' description'">
+                    {{ productId.name }}
+                </a>
+            </h3>
+            <p *ngIf="productId.rating" class="item_rating">
+                <i class="material-icons">star</i>
+                {{ productId.rating }} / 10
+            </p>
+        </div>
+        <div class="item-carousel">
+            <img [src]=" productId.image " alt="">
+        </div>
+        <p *ngIf="productId.description" class="item_description">
+            Description: {{ productId.description }}
+        </p>
+        <div class="item_button">
+            <button class="link" (click)="redirect(productId.link)">Redirect</button>
+            <a class="share" href="//www.facebook.com/sharer/sharer.php?u={{productId.link}};"><i
+                    class="material-icons">share</i>
+            </a>
+            <button class="see-more">See more</button>
+        </div>
+    </div>
+</div>
